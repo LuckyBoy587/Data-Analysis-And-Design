@@ -1,0 +1,5 @@
+# ninja log v6
+27	484	7440206136666633	CMakeFiles/merge-sort.dir/mergesort.cpp.obj	6efa7dac2f37b53e
+485	599	7440206141247481	merge-sort.exe	d9a3a11b981d28e6
+29	375	7446284597345021	CMakeFiles/quick-sort.dir/quicksort.cpp.obj	f185cf371ce05909
+376	458	7446284600810979	quick-sort.exe	cd82b083dd5b45c

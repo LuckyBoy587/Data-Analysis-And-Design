@@ -1,0 +1,4 @@
+D:/Data Analysis And Algorithms/cmake-build-debug/CMakeFiles/merge-sort.dir
+D:/Data Analysis And Algorithms/cmake-build-debug/CMakeFiles/quick-sort.dir
+D:/Data Analysis And Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Data Analysis And Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
